@@ -1,0 +1,5 @@
+accession	relative_path	bytes	md5	source_url	original_location_on_project_machine
+GSE13355	raw/GSE13355_RAW.tar	955514880	64f89a9d4a128b91976922ea28169fcd	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13355/suppl/GSE13355_RAW.tar	/workspace/independence/raw/GSE13355_RAW.tar
+GSE14905	raw/GSE14905_RAW.tar	393031680	275df256dfe6b9f26940263d783e5ef7	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14905/suppl/GSE14905_RAW.tar	/workspace/independence/raw/GSE14905_RAW.tar
+GSE30999	raw/GSE30999_RAW.tar	954992640	4e6113abc080a34827f3ddcb31d6add6	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30999/suppl/GSE30999_RAW.tar	/workspace/independence/raw/GSE30999_RAW.tar
+GSE117468	raw/GSE117468_RAW.tar	1302026240	b6db40904e96595b4f77738acd6ee9a3	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE117nnn/GSE117468/suppl/GSE117468_RAW.tar	/workspace/independence/raw/GSE117468_RAW.tar
