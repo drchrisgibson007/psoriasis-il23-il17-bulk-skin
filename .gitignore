@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Generated figures
+/Figure1_module_scatter.png
+/Figure1_module_scatter.tif
+/Figure2_class_proportions.png
+/Figure2_class_proportions.tif
+/figure2_counts.csv
+
+# Large GEO inputs and local result trees (CEL archives, series matrices, RMA matrices)
+*.CEL
+*.cel
+*.CEL.gz
+*.cel.gz
+*_RAW.tar
+*_series_matrix.txt
+*_series_matrix.txt.gz
+*_rma.tsv
+*_rma.tsv.gz
+*_readcount.txt.gz
+*_RPKM_samples.txt.gz
+*.mtx
+*.mtx.gz
+
+analysis/data/
+analysis/data_full/
+analysis/rma/
+analysis/raw/
+analysis/out/
+analysis/out_rma/
+analysis/out_rma_qc/
+analysis/outputs/
+analysis/outputs_reference/
+external/
+raw_download/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
